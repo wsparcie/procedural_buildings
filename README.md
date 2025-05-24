@@ -3,7 +3,6 @@
 [![Blender](https://img.shields.io/badge/Blender-3.6-orange.svg)](https://www.blender.org/)
 [![Status](https://img.shields.io/badge/Status-Alpha-yellow.svg)]()
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
-[![Last Updated](https://img.shields.io/badge/Last%20Updated-May%202025-brightgreen.svg)]()
 
 A set of simple procedural building presets created with Geometry Nodes,
 featuring factory, tenement, block of flats and skyscraper designs.
