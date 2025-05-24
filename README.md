@@ -7,9 +7,7 @@
 A set of simple procedural building presets created with Geometry Nodes,
 featuring factory, tenement, block of flats and skyscraper designs.
 
-> The project is currently in alpha phase
 > Blender 3.6 required
-
 
 ## Available Presets
 
