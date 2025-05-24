@@ -1,4 +1,4 @@
-# Procedural Buildings
+# Blender Procedural Buildings
 
 [![Blender](https://img.shields.io/badge/Blender-3.6-orange.svg)](https://www.blender.org/)
 [![Status](https://img.shields.io/badge/Status-Alpha-yellow.svg)]()
